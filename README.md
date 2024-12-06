@@ -53,8 +53,7 @@ Le projet inclut également la gestion d'une base de données PostgreSQL héberg
 - Docker installé sur votre machine.  
 - Python 3.9 ou plus récent.  
 
-### **Étapes d’Installation**  
-1. **Cloner le dépôt**  
+### **Étapes d’Installation**   
    ```bash
    git clone https://github.com/rabiizahnoune/Application-de-Pr-diction-des-Prix-Immobiliers
    cd base_de donnes
